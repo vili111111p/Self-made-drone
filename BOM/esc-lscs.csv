@@ -16,7 +16,7 @@ Q1-Q24,24,AON7544,DFN-8,C404495,30V 30A N-Ch MOSFET
 "R1, R2, R3, R7...R78 (44 qty)",44,10K,201,C130722,1% Thick Film Resistor
 "R4, R5, R6, R25...R69 (12 qty)",12,1k,201,C270365,1% Thick Film Resistor
 "R12, R33, R54, R75",4,1K,201,C270365,1% Thick Film Resistor
-"R16, R17, R18...R84 (24 qty)",24,20R,201,C136018,1% Thick Film Resistor
+"R16, R17, R18...R84 (24 qty)",24,20R,201,C320753,1% Thick Film Resistor
 "R85, R86",2,100kΩ,402,C25741,1% Thick Film Resistor
 R87,1,56R,1206,C25804,1% Thick Film Resistor
 R88,1,11K,603,C25801,1% Thick Film Resistor
@@ -29,3 +29,4 @@ U21,1,JW5026,SOT-23-6,C185109,2A/40V Step-Down Converter
 U22,1,TPS82130SILR,USIP-8,C473914,17V 3A Step-Down Module
 
 U24,1,INA199A1DCKR,SC-70-6,C59135,Current Sense Amplifier
+
