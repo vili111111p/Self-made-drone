@@ -23,22 +23,10 @@ PCB
 ## Firmware
 For the esc i have to upload a bootloader and then the frimware trough st link. The fc's i only have to upload from the betaflight software, so its not so difficult.
 
-## Prodiction
+## Production
 Sadly the PCBA is REALLY expensive, so i have to solder it together myself. It will be a little difficult, but i will try. The other component will be easier i think.
 
 ## BOM
- - 1x FC
- - 1x ESC
- - 4x Brushless motors
- - 1x Drone frame
- - 1x ELRS reciever
- - 1x ELRS transmitter
- - 2x 18650 batteries for transmitter
- - 10x Propellers
- - 1x Video transmitter
- - 1x Analog camera
- - 40x vibration dampening thingies
- - 1x ST-Link V2
- - 1x Hotgun
- - 1x Hotplate
- - SH connector kit
+ - FC components in /BOM/FC_BOM.csv
+ - ESC components in /BOM/ESC_BOM.csv
+ - Other parts in /BOM/Other_BOM.csv
