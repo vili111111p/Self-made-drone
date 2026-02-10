@@ -19,6 +19,10 @@ Schematic of one esc
 PCB
 <img width="372" height="403" alt="image" src="https://github.com/user-attachments/assets/9daacab8-fa82-4bf0-9a80-6478164e4066" />
 
+## Frame
+I made the frame with generative design, so its as strong as possible 3d printed. I reccommend using jlcpcb for printing, because its pretty cheap and pretty strong.
+
+<img width="777" height="520" alt="image" src="https://github.com/user-attachments/assets/ea8d937f-a7fe-4803-a58a-2370e83ada51" />
 
 ## Firmware
 For the esc i have to upload a bootloader and then the frimware trough st link. The fc's i only have to upload from the betaflight software, so its not so difficult.
