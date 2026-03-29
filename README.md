@@ -24,6 +24,11 @@ I made the frame with generative design, so its as strong as possible 3d printed
 
 <img width="777" height="520" alt="image" src="https://github.com/user-attachments/assets/ea8d937f-a7fe-4803-a58a-2370e83ada51" />
 
+##Wiring
+This i how i plan i will wire the drone
+
+<img width="252" height="500" alt="wiring_diagram" src="https://github.com/user-attachments/assets/aae1a43d-9bb8-45ef-881b-e894c772f8c2" />
+
 ## Firmware
 For the esc i have to upload a bootloader and then the frimware trough st link. The fc's i only have to upload from the betaflight software, so its not so difficult.
 
