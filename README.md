@@ -20,9 +20,10 @@ PCB
 <img width="372" height="403" alt="image" src="https://github.com/user-attachments/assets/9daacab8-fa82-4bf0-9a80-6478164e4066" />
 
 ## Frame
-I made the frame with generative design, so its as strong as possible 3d printed. I reccommend using jlcpcb for printing, because its pretty cheap and pretty strong.
+I made the frame to be made with 3d printing. Its in one piece, so one print. I recommend using jlcpcb for printing, because its pretty cheap and pretty strong.
 
-<img width="777" height="520" alt="image" src="https://github.com/user-attachments/assets/ea8d937f-a7fe-4803-a58a-2370e83ada51" />
+<img width="801" height="504" alt="image" src="https://github.com/user-attachments/assets/5f71fadb-f9d1-4348-b3d7-23b99bae9e45" />
+
 
 ##Wiring
 This i how i plan i will wire the drone
